@@ -1,6 +1,7 @@
 body {
   text-align: center;
   font-family: monospace;
+  background-color: #e8d8b2;
 }
 .top img {
   width: 80%;
@@ -23,4 +24,13 @@ body {
 .content p {
   padding-left: 80px;
   padding-right: 80px;
+  font-size: 15px;
+}
+
+.content img {
+  width: 40%;
+}
+.country {
+  color: red;
+  font-style: italic;
 }
