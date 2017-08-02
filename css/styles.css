@@ -19,16 +19,22 @@ body {
   font-family: cursive;
   padding-left: 80px;
   padding-right: 80px;
+
 }
 
 .content p {
-  padding-left: 80px;
-  padding-right: 80px;
   font-size: 15px;
+  padding-bottom: 20px;
+  width: 80%;
+  display: inline-block;
+  text-align: left;
 }
 
 .content img {
   width: 40%;
+  margin-bottom: 15px;
+  border: 4px solid green;
+
 }
 .country {
   color: red;
